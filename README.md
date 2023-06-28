@@ -1,4 +1,4 @@
-#Project Showcase
+# Project Showcase
 
 This repository showcases three different projects: a landing page, a portfolio, and a temperature converter. Each project is described briefly below:
 
